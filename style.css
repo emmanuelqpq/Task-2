@@ -1,0 +1,51 @@
+body {
+  margin: 0;
+}
+header {
+  position: relative;
+  top: 0;
+  left: 0;
+  background-color: teal;
+  color: orange;
+  text-align: center;
+  padding: 60px;
+  font-size: 60px;
+  font-family: "Arial";
+}
+.extLinks {
+  color: #ffffff;
+  font-size: 20px;
+}
+table {
+  position: relative;
+  border-spacing: 0;
+  width: 100%;
+}
+tr {
+  width: 100%
+}
+td {
+  border: 1px solid teal;
+  padding: 40px ;
+  font-family: "Arial";
+}
+#topRow {
+  background-color: teal;
+  color: white;
+}
+main {
+  background-color: lightgray;
+}
+#mainContent {
+  position: relative;
+  background-color: #ffffff;
+  top: 50px;
+  padding: 20px;
+  width: 85%;
+  left: 50%;
+  transform: translateX(-50%);
+  border-radius: 4px;
+}
+#cameraSelection {
+  outline: none;
+}

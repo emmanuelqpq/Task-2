@@ -1,0 +1,24 @@
+td{
+  padding: 0px;
+  border: 1px solid darkgreen;
+}
+table{
+  border-color: darkgreen;
+  border-spacing: 0px;
+}
+.Header{
+  background-color: darkblue;
+  padding: 20px;
+  text-align: center;
+  color: white;
+}
+
+#mark {
+  background-color: darkblue;
+  color: white;
+  padding: 10px;
+  border: 1px solid darkblue;
+}
+
+.MarkTable {
+}
